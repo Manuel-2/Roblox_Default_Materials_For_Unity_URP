@@ -2,6 +2,8 @@
 
 The Roblox default textures, but made as Unity materials for URP. These are just the original textures extracted from the Roblox's files, no idea if they have copyright ¯\\(ツ)/¯
 
+Note: All the textures are color less, I colored the materials
+
 ![materiales](https://user-images.githubusercontent.com/73960495/189459341-9d3387b0-fccb-4906-83cc-206986ff1d3c.png)
 
 ## Materials characteristics:
